@@ -7,4 +7,5 @@
         echo fgets($file). "<br>";
     }
     fclose($file);
+echo "Program by Aryan(0221BCA161)";
 ?>
