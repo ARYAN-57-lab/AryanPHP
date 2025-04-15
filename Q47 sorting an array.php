@@ -15,5 +15,5 @@ echo "<br>Sorted array (in ascending order):<br>";
 foreach ($arr as $value) {
     echo $value . "<br>";
 }
-echo "<br>This program is written by Tanya Aggarwal 0221BCA084";
+echo "Program by Aryan(0221BCA161)";
 ?>
