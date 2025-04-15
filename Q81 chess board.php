@@ -40,7 +40,7 @@ for ($row = 1; $row <= 8; $row++) {
 }
 
 echo "</table>";
-echo("<br>This program is written by Vardaan Valecha");
+echo "Program by Aryan(0221BCA161)";
 
 ?>
 
