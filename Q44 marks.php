@@ -25,6 +25,6 @@ $perc = ($total_marks / $out_of) * 100;
 echo "<br>Total Marks: ".$total_marks."<br>";
 echo "Percentage: ".number_format($perc,2)."%"."<br>";
 
-echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+echo "Program by Aryan(0221BCA161)";
 
 ?>
