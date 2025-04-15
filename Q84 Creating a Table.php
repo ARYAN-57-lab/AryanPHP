@@ -25,7 +25,7 @@
     } else {
         echo "Error creating table: " . $conn->error;
     }
-    echo("<br>This program is written by Vardaan Valecha");
+    echo "Program by Aryan(0221BCA161)";
     $conn->close();
         
 ?>
