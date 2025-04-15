@@ -10,6 +10,6 @@ echo"<br>";
 selfMultiply($mynum);
 echo $mynum;
 
-echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+echo "Program by Aryan(0221BCA161)";
 
 ?>
