@@ -8,7 +8,7 @@
 $age=array("Peter"=>20,"Harry"=>14,"John"=>45,"Clark"=>35);
 krsort($age);
 print_r($age);
-echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+echo "Program by Aryan(0221BCA161)";
 ?>
 </body>
 </html>
