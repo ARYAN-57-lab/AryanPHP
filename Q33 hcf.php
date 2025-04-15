@@ -20,5 +20,5 @@ $number2 = 18; // You can change this number to test with different values
 $hcf = findHCF($number1, $number2);
 echo "The HCF of $number1 and $number2 is: " . $hcf;
 
-echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+echo "Program by Aryan(0221BCA161)";
 ?>
