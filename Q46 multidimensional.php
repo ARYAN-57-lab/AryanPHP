@@ -30,7 +30,7 @@
          echo "Marks for Zara in chemistry: ";
          echo $marks['zara']['chemistry'] . "<br>";
 
-         echo "<br>This program is written by Vardaan Valecha";
+        echo "Program by Aryan(0221BCA161)";
          
 ?>
 </body>
