@@ -79,7 +79,7 @@ $marks = array(
     </table>
 
     <div class="footer">
-        <p>This program is written by Tanya Aggarwal 0221BCA084</p>
+        <p>Program by Aryan 0221BCA161</p>
     </div>
 
 </body>
