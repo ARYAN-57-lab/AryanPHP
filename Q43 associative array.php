@@ -15,5 +15,5 @@
     echo "Salary of Roshan is ". $salaries['roshan'] . "<br>";
     echo "Salary of Twinkle is ".  $salaries['twinkle']. "<br>";
     echo "Salary of Zara is ".  $salaries['zara']. "<br>";
-    echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+    echo "Program by Aryan(0221BCA161)";
 ?>
