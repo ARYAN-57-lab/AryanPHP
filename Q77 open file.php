@@ -10,5 +10,5 @@
         $text = fopen("welcome.txt","r");
         var_dump($text);
     }
-    echo("<br>This program is written by Vardaan Valecha");
+   echo "Program by Aryan(0221BCA161)";
 ?>
