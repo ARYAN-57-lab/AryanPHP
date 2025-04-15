@@ -1,4 +1,4 @@
 <?php
 echo("Hello World!<br>");
-echo("This program is written by Tanya Aggarwal 0221BCA084");
+echo "Program by Aryan(0221BCA161)";
 ?>
