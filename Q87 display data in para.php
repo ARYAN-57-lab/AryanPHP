@@ -26,7 +26,7 @@ if ($result->num_rows > 0) {
 } else {
     echo "0 results";
 }
-echo "<br>This program is written by Aryan Goel 0221BCA161";
+echo "Program by Aryan(0221BCA161)";
 $conn->close();
 
 ?>
