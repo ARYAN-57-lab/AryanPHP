@@ -20,5 +20,5 @@
 	// Bitwise Right shift 
 	$answer = $First >> $second; 
 	print_r("5 >> 1 will be $answer<br>"); 
-   echo("<br>This program is written by Vardaan Valecha");
+   echo "Program by Aryan(0221BCA161)";
 ?> 
