@@ -8,7 +8,7 @@
             echo "You are really a nice person, have a good day :)<br>";
         }
         writeMessage();
-        echo("<br>This program is written by Tanya Aggarwal 0221BCA084");
+        echo "Program by Aryan(0221BCA161)";
         ?>
     </body>
 </html>
